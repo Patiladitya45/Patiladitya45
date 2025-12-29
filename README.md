@@ -38,11 +38,5 @@
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Patiladitya45&icon=0&color=0" />
-</p>
-
----
 
 ⭐ **Thank you for visiting my profile! Feel free to explore my repositories and connect with me.**
