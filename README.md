@@ -1,15 +1,48 @@
-# 💫 About Me:
-Hi there 👋 I'm Aditya Patil!<br>Welcome to my GitHub profile! I'm a passionate software developer and a technology enthusiast with a love for building web applications, exploring Devops technologies, and solving challenging problems through code.<br><br>🌱 I’m currently learning advanced java.<br>🔭 I’m currently working on personal projects to hone my skills in full-stack web development .<br>👯 I’m looking to collaborate on open-source projects, especially in the areas of web development.<br>💬 Ask me about web development, JavaScript, and Java.<br>📫 How to reach me: You can send me an email at adityapatil1050@gmail.com .<br>
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Patiladitya45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Patiladitya45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patiladitya45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Aditya Patil</h1>
+<h3 align="center">Software Developer | Java Enthusiast | Web Developer</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Patiladitya45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+- 🔭 I’m currently working on **personal projects** to improve my **full-stack web development** skills  
+- 🌱 I’m currently learning **Advanced Java**  
+- 👯 I’m looking to collaborate on **open-source projects**, especially in **web development**  
+- 💬 Ask me about **Java, JavaScript, HTML, CSS, Git, and GitHub**  
+- 📫 Reach me at: **adityapatil1050@gmail.com**
+
+---
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patiladitya45&show_icons=true&theme=dark" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Patiladitya45&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patiladitya45&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Patiladitya45&icon=0&color=0" />
+</p>
+
+---
+
+⭐ **Thank you for visiting my profile! Feel free to explore my repositories and connect with me.**
