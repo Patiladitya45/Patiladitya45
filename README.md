@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Patiladitya45&show_icons=true&theme=dark" />
   <br/>
